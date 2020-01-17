@@ -1,0 +1,13 @@
+Team Information
+Team 60
+* Following file contains all SQL queries required in the project:
+
+Phase_3/burdellramblinwrecks/model/dao.py
+
+* Link to the file:
+https://github.gatech.edu/cs6400-omscs-2019-03-fall/CS6400-2019-03-Team60/blob/master/Phase_3/burdellramblinwrecks/model/dao.py
+
+* Steps to run:
+In burdellramblinwrecks folder, run main.py
+# python main.py
+

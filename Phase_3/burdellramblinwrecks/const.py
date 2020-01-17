@@ -1,0 +1,5 @@
+CLERK="Clerk"
+SALESPERSON="Sales Person"
+MANAGER="Manager"
+BURDELL="burdell"
+CURRENT_USER = ""
